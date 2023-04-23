@@ -76,6 +76,6 @@ public class CreateDeleteProduct_G {
 			System.out.println("Test case Pass....Product is  deleted");
 		}
 		driver.close();
-
+ 
 	}
 }
